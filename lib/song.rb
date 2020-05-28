@@ -1,6 +1,6 @@
 class Song 
-  
-  def initialize
+  attr_accessor :title
+  def initialize(title)
   
   
   
